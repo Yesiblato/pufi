@@ -1,0 +1,46 @@
+.news-cotainer {
+  width: 50%;
+  margin-top: 4em;
+  margin-bottom: 4em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+.news-cotainer h2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 3em;
+  margin-bottom: 0;
+}
+
+.news-cotainer h3 {
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 0;
+}
+
+.news-cotainer h4 {
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 0.065em;
+  margin-bottom: 1em;
+}
+
+.news-cotainer form {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.news-cotainer input {
+  width: 95%;
+  text-indent: 2em;
+  border: none;
+  font-size: 1.2em;
+}
+
+.input-conteiner {
+  border: 0.3px solid gray;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 3em;
+}
