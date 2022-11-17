@@ -1,6 +1,6 @@
 # Pufi App. 🙎‍♀️💻	
 
-Pufi App es una simulación de una pagina web para venta de articulos de una tienda virtual.
+Pufi App es una simulación de una pagina web para venta de artículos de una tienda virtual.
 
 ## Tecnologias utilizadas. 🚀
 
