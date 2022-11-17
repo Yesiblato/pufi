@@ -25,7 +25,7 @@ function Carts() {
           un texto simulado
         </h3>
         <div className="verMas-container">
-          <span class="material-symbols-outlined">chevron_right</span>
+          <span className="material-symbols-outlined">chevron_right</span>
           <a href="/"> VER MAS</a>
         </div>
       </div>
@@ -39,7 +39,7 @@ function Carts() {
           un texto simulado
         </h3>
         <div className="verMas-container">
-          <span class="material-symbols-outlined">chevron_right</span>
+          <span className="material-symbols-outlined">chevron_right</span>
           <a href="/"> VER MAS</a>
         </div>
       </div>
@@ -55,7 +55,7 @@ function Carts() {
           un texto simulado
         </h3>
         <div className="verMas-container">
-          <span class="material-symbols-outlined">chevron_right</span>
+          <span className="material-symbols-outlined">chevron_right</span>
           <a href="/"> VER MAS</a>
         </div>
       </div>
@@ -69,7 +69,7 @@ function Carts() {
           un texto simulado
         </h3>
         <div className="verMas-container">
-          <span class="material-symbols-outlined">chevron_right</span>
+          <span className="material-symbols-outlined">chevron_right</span>
           <a href="/"> MAS INFO</a>
         </div>
       </div>
